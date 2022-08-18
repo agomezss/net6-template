@@ -1,0 +1,52 @@
+Integration Company/Common/MDCS_Base/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Common/MDCS_Base/obj/Debug/MDCS_Base.csprojAssemblyReference.cache
+Integration Company/Common/MDCS_Common/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Common/MDCS_Common/obj/Debug/MDCS_Common.csprojAssemblyReference.cache
+Integration Company/Common/MDCS_DataManager/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Common/MDCS_DataManager/obj/Debug/MDCS_DataManager.csprojAssemblyReference.cache
+Integration Company/Common/MDCS_DB/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Common/MDCS_Log/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Common/MDCS_Util/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Common/MDCS_Util/obj/Debug/MDCS_Util.csprojAssemblyReference.cache
+Integration Company/Integration/MDCS_Integration/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Integration/MDCS_Integration/obj/Debug/MDCS_Integration.csprojAssemblyReference.cache
+Integration Company/Integration/MDCS_IntegrationConsole/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Integration/MDCS_IntegrationConsole/obj/x86/Debug/MDCS_IntegrationConsole.csprojAssemblyReference.cache
+Integration Company/Integration/MDCS_IntegrationService/.vs/MDCS_IntegrationService/v16/.suo
+Integration Company/Integration/MDCS_IntegrationService/.vs/MDCS_IntegrationService/v16/Server/sqlite3/db.lock
+Integration Company/Integration/MDCS_IntegrationService/.vs/MDCS_IntegrationService/v16/Server/sqlite3/storage.ide
+Integration Company/Integration/MDCS_IntegrationService/.vs/MDCS_IntegrationService/v16/Server/sqlite3/storage.ide-shm
+Integration Company/Integration/MDCS_IntegrationService/.vs/MDCS_IntegrationService/v16/Server/sqlite3/storage.ide-wal
+Integration Company/Integration/MDCS_IntegrationService/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Integration/MDCS_IntegrationService/obj/x86/Debug/MDCS_IntegrationService.csprojAssemblyReference.cache
+Integration Company/Integration/MDCS_WebServiceInterface/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Integration Company/Push/MDCS_Push/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+**/obj/
+**/bin/
+Sync/MDCS_SyncService/.vs/
+*.bak
+*.suo
+Tasks/MDCS_TasksConsole/MDCS_TasksConsole.csproj.user
+Tasks/MDCS_Tasks/.vs/
+Interface WebService/ConsumerInterfaceLib/ExporterLog.cs
+GeneratorClass.rar
+/Integration/MDCS_IntegrationService/packages
+/Version/assembly.log
+Integration Company/Integration/MDCS_IntegrationService/.vs/
+/Tasks/MDCS_Tasks/packages
+Integration Company/Integration/MDCS_IntegrationService/packages/
+Sync/MDCS_SyncService/packages/Dynatrace.OneAgent.Sdk.1.6.0/.signature.p7s
+Sync/MDCS_SyncService/packages/
+TraceAgent/.vs/
+/TraceAgent/packages
+Integration/MDCS_IntegrationService/.vs/MDCS_IntegrationService/v15/
+Integration/MDCS_ODataConsumer/.vs/MDCS_ODataConsumer/v15/
+Schedule/MDCS_Schedule/.vs/MDCS_Schedule/v15/
+Integration/MDCS_IntegrationService/.vs/
+Interface WebService/ConsumerInterfaceLib/.vs/
+Interface WebService/wsImportInterfaceConsole/.vs/
+Interface WebService/wsImportInterfaceGenerator/.vs/
+Client/Client_Sync/MC1SincLib/.vs/
+Schedule/MDCS_Schedule/packages/
+packages/
+Interface WebService/wsImportInterfaceGenerator/packages/
